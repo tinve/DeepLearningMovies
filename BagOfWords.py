@@ -104,4 +104,3 @@ if __name__ == '__main__':
     output.to_csv(os.path.join(os.path.dirname(__file__), 'data', 'Bag_of_Words_model.csv'), index=False, quoting=3)
     print "Wrote results to Bag_of_Words_model.csv"
 
-
